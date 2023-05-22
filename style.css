@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+
+.btn-primary {
+  background-color: red;
+  border-color: red;
+}
+.btn-primary:hover {
+  background-color: darkred;
+  border-color: darkred;
+}
+
+.red-text {
+  color: darkred;
+}.src {
+}
